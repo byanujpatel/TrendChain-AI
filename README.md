@@ -8,13 +8,13 @@
 
 ## Live App
 
-**App:** [Add your Streamlit app URL here](https://your-app-name.streamlit.app)
+**App:** [Project URL Live](https://crypto-trend-finder.streamlit.app)
 
 ## Demo Video
 
 <!-- Replace the text and URL below after uploading your demo video. -->
 
-**Watch the 3–5 minute demo:** [Demo video link coming soon](https://your-demo-video-link.com)
+**Watch the 3–5 minute demo:** [Demo video link](https://www.loom.com/share/1c0a4155fa2d4c1ba26f8e51da6dd7f0)
 
 ---
 
@@ -77,13 +77,13 @@ Reels + YouTube + Twitter ideas
 
 ## Live Data Sources
 
-| Source | What it contributes | API key |
-|---|---|---|
-| YouTube | Views, likes, comments, titles, descriptions | Required |
-| Hacker News | Technical discussions, points, comments | Not required |
-| CoinGecko | Current trending coins and categories | Recommended |
-| Crypto RSS feeds | Current news headlines and narratives | Not required |
-| Reddit | Optional integration pending official API approval | Optional |
+| Source           | What it contributes                                | API key      |
+| ---------------- | -------------------------------------------------- | ------------ |
+| YouTube          | Views, likes, comments, titles, descriptions       | Required     |
+| Hacker News      | Technical discussions, points, comments            | Not required |
+| CoinGecko        | Current trending coins and categories              | Recommended  |
+| Crypto RSS feeds | Current news headlines and narratives              | Not required |
+| Reddit           | Optional integration pending official API approval | Optional     |
 
 X/Twitter is not used as a collection source. The system still generates the three Twitter thread ideas required by the assignment.
 
